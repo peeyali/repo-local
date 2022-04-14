@@ -1,2 +1,4 @@
 this is a sample file created in qa branch
 this is a code added on dev branch
+this code is added on master 
+this is code added in qa branch
